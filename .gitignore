@@ -1,0 +1,25 @@
+# Dataset
+emnist/
+math/
+*.zip
+*.gz
+*.tar
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Training outputs (opsional kalau besar)
+*.h5
+*.pt
+*.pth
+
+# Logs
+logs/
