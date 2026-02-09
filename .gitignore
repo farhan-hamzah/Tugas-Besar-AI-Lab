@@ -1,25 +1,25 @@
-# Dataset
+# Dataset (Folder data utama & test)
 emnist/
+emnistTest/
 math/
+mathSymbolsTest/
+sampleImages/
+
+# Dataset Compressed
 *.zip
 *.gz
 *.tar
 
-# Python cache
+# Python cache & Jupyter
 __pycache__/
 *.pyc
-
-# Jupyter
 .ipynb_checkpoints/
 
-# OS
+# OS Files
 .DS_Store
 Thumbs.db
-
-# Training outputs (opsional kalau besar)
-*.h5
-*.pt
-*.pth
+desktop.ini
 
 # Logs
 logs/
+
